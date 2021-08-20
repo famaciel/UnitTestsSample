@@ -1,2 +1,2 @@
 # UnitTestsSample
-Projeto de estudo de testes unitários em xUnit e Moq
+Study project of Unit Tests with xUnit and Moq
